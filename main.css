@@ -1,5 +1,5 @@
 * {
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 body {
@@ -57,7 +57,7 @@ body {
     font: sans-serif;
     padding: 20px;
     font-style: italic;
-    font: 1.4em/1.875em helvetica;
+    font: 1.4em helvetica;
 }
 .about-me {
     display: flex;
@@ -69,7 +69,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color: rgb(32, 20, 25);
-    min-width: 40%;
+    width: 40%;
     text-align: center;
     padding: 30px;
     border-radius: 10px 0px 0px 10px;
