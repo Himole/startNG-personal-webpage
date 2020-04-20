@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 20px;
+    margin: 15px;
 }
 .navbar-item {
     display: flex;
@@ -30,8 +30,8 @@ body {
 }
 .nav-icon {
     margin-left: 30px;
-    height: 30px;
-    width: 30px;
+    height: 35px;
+    width: 35px;
 }
 
 .opening {
